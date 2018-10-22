@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/fazle/bin/slf4j-1.7.25/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/home/fazle/bin/slf4j-1.7.25/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/home/fazle/bin/neuroph-2.9/neuroph-core-2.9.jar"/>
+	<classpathentry kind="lib" path="/home/fazle/bin/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
